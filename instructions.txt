@@ -1,0 +1,7 @@
+#### HACKBRIGHT RESOURCES ####
+
+0917 lab instructions:
+https://fellowship.hackbrightacademy.com/materials/serft8/exercises/testing-py/
+
+0917 afternoon lecture (Testing):
+https://fellowship.hackbrightacademy.com/materials/serft8/lectures/testing/
